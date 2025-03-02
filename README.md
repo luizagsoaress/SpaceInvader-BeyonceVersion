@@ -1,1 +1,2 @@
-Jogo desenvolvido em C.
+Jogo desenvolvido em C, usando a biblioteca gráfica Raylib.
+
